@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Node.js, Express.js, Mongodb**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-app-3d6e4b.netlify.app](https://my-portfolio-app-3d6e4b.netlify.app)
+- 👨‍💻 All of my projects are available at [https://new-portfolio-two-liart.vercel.app]
 
 - 💬 Ask me about **React.js, Redux, Javascript**
 
