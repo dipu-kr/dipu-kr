@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Node.js, Express.js, Mongodb**
 
-- 👨‍💻 All of my projects are available at [https://new-portfolio-two-liart.vercel.app]
+- 👨‍💻 All of my projects are available at [https://dipu-kumar-portfolio.vercel.app]
 
 - 💬 Ask me about **React.js, Redux, Javascript**
 
